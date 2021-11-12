@@ -1,0 +1,3 @@
+[submodule "LoggerLibrary"]
+	path = LoggerLibrary
+	url = git@github.com:DroidTech-2021/LoggerLibrary.git
